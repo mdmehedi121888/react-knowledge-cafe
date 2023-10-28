@@ -1,0 +1,29 @@
+.blog{
+    
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+.blog .blog-img{
+    width: 100%;
+    border-radius: 30px;
+}
+.blog .author-part .author-img{
+    width: 150px;
+    height: 150px;
+}
+.blog .author-part{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.author-and-bookmark{
+    display: flex;
+    justify-content: space-between;
+}
+.author-and-bookmark .bookmark-part{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-right: 20px;
+}

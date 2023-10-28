@@ -1,0 +1,9 @@
+.bookmark-container{
+    position: relative;
+}
+.bookmark-container .bookmark-section{
+    position:sticky;
+    top: 300px;
+    margin-top: 300px;
+    margin-left: 50px;
+}
