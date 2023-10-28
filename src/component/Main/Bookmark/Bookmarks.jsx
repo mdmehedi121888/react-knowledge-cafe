@@ -2,7 +2,6 @@ import React from 'react';
 import './Bookmark.css';
 const Bookmarks = (props) => {
     const ar = props.title;
-    console.log(ar);
     return (
         <div className='bookmark-container'>
                 <div className='bookmark-section'>
